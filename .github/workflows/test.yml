@@ -11,4 +11,4 @@ jobs:
     runs-on: [ubuntu-latest]
 
     steps:
-      - uses: rfoel/bash-action@v2
+      - uses: rfoel/bash-action@v3
